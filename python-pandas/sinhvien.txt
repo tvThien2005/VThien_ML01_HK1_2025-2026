@@ -1,0 +1,14 @@
+1,văn thiện,CNTT,Khoa học máy tính,3.5
+2,Minh hải,CNTT,Khoa học máy tính,3.8
+3,Minh Trí,CNTT,Kĩ thuật phần mềm,3.2
+4,Trần Nam,CNTT,Kĩ thuật phần mềm,3.24
+5,Hồ T,CNTT,Kĩ thuật phần mềm,3.19
+6,Lý AB,CNTT,Kĩ thuật phần mềm,3.2
+7,Trần B,CNTT,Kĩ thuật phần mềm,3.0
+8,Nguyễn A,CNTT,Kĩ thuật phần mềm,2.5
+9,Văn C,CNTT,Kĩ thuật phần mềm,2.8
+10,Quốc Việt,QTKD,Quản trị kinh doanh,3.6
+11,Thị Linh,Y học,Da liễu,3.8
+12,Văn Minh,Sư phạm,Sư phạm toán,3.9
+13,Thị H,Y học,Y khoa,3.0
+14,Minh thuận,CNTT,Kĩ thuật phần mềm,2.2
